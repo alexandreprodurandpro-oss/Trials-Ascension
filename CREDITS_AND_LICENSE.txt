@@ -1,0 +1,55 @@
+TRIALS ASCENSION - CREDITS & LICENSE
+
+TRIALS ASCENSION
+Development, overhaul, balancing, maintenance and additional content:
+Jam4_
+
+PROJECT BASE
+
+Trials of Tav
+Original author:
+Hippo0o
+
+Trials of Tav Reloaded
+Developer:
+celerev
+
+Trials Ascension is an independent overhaul built on the GPL-licensed Trials codebase.
+
+IMPORTANT PROJECT INDEPENDENCE NOTICE
+
+Hippo0o and celerev are not involved in the development, maintenance, balancing, support or direction of Trials Ascension.
+
+Please do not contact them for Trials Ascension support, bug reports or compatibility questions.
+
+EXTERNAL DEPENDENCIES
+
+- ImprovedUI / ImpUI
+- UnlockLevelCurve
+- AdvancedTabletopSpells
+- BG3 Script Extender
+
+OPTIONAL EXTERNAL INTEGRATION
+
+- Spells of Exandria
+
+AdvancedTabletopSpells and Spells of Exandria are separate external projects.
+Their spells, monsters, assets and other content are NOT Trials Ascension content and are NOT redistributed in this repository or in the Trials Ascension package.
+
+AdvancedTabletopSpells is a required external dependency.
+Spells of Exandria is an optional external integration when present.
+
+Both projects remain subject to the permissions and terms defined by their respective author(s).
+
+LICENSE
+
+Trials Ascension contains modified code derived from the Trials of Tav / Trials of Tav Reloaded codebase distributed under the GNU General Public License v3.0 (GPL-3.0).
+
+GPL-covered code and modifications distributed as part of Trials Ascension are provided under GPL-3.0.
+
+See the LICENSE file in this repository for the full license text.
+
+Third-party assets, Baldur's Gate 3 content and external dependencies remain subject to their respective rights and licenses.
+
+Baldur's Gate 3 and related assets are property of their respective rights holders.
+Trials Ascension is an unofficial community project.
