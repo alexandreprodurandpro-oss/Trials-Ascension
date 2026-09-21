@@ -1,0 +1,21 @@
+# Build outputs
+*.pak
+/dist/
+/build/
+
+# Local tools / caches
+/tools/
+.cache/
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary BG3 / modding outputs
+*.bak
+*.tmp
+*.log
