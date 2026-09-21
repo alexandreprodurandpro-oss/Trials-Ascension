@@ -1,0 +1,5 @@
+Trials Ascension
+Public version: 2.3.4.27
+Source archive: TrialsAscension_Source_2.3.4.27_GitHub.zip
+Source archive SHA-256: 0cd0ebaeeeda4b66cbbccaaa6da37e1fb1f6ae57cb2d3d9372c53edd870a2b68
+Published PAK SHA-256: 55ae834bbc64b8d15eacb38f021f05c041e35603674358b7967f7c5649a47175
