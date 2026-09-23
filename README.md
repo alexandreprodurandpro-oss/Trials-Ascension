@@ -7,6 +7,21 @@ Trials Ascension is an **independent roguelike overhaul for Baldur's Gate 3**.
 
 It is built on the GPL-licensed foundations of **Trials of Tav** and **Trials of Tav Reloaded**, but follows its own gameplay direction focused on long-term roguelike progression, scaling difficulty, Ascension systems, contracts, milestone encounters, custom rewards, equipment progression and replayability.
 
+## Current development changes — V9H test branch
+
+The current development build includes a major custom-weapon pass and loot cleanup. This is **development/test information** and does not replace the public `2.3.4.27` source snapshot linked below.
+
+- Mythic weapons are restricted to the dedicated Mythic reward pool.
+- Mythic weapon pool currently includes **Hallebarde du Zénith**, **Trident de la Marée Funèbre**, **Faux de Myrkul** and **Arc du Néant de Dakousai**.
+- High-tier item prices are standardized at **900 gp (Very Rare/Epic)**, **1,800 gp (Legendary)** and **3,000 gp (Mythic)**.
+- **Arc du Néant de Dakousai** now uses the native Bow of the Banshee weapon base/behaviour while keeping its Trials Ascension spell and bonus package; a permanent Necrotic weapon VFX was added.
+- **Lame de Yurgir** uses its native Orthon weapon handling/animation path instead of forced humanoid greatsword animation metadata.
+- **Fléau du Vortex** no longer uses the problematic Electrified Flail/Thunderous Smite action. It uses native weapon actions including Concussive Smash and Weakening Strike, alongside its validated defensive bonuses.
+- **KatanaTheus** no longer displays the duplicate +2 Dexterity line.
+- The non-functional Destructive Wave: Necrotic grant was removed from **Faux de Myrkul**; its other validated bonuses remain.
+- **Creuset de l'Alchimiste** and **Espadon du Guetteur** were removed from the active custom-weapon set.
+- French, English and Chinese localization files are maintained for the current development content; the full-mod Chinese localization is still being audited before being declared 100% complete.
+
 ## Project independence
 
 Trials Ascension is independently developed, maintained, balanced and supported by **Jam4_**.
